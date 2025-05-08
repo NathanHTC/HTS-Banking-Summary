@@ -15,7 +15,9 @@ HTSBanking: A full-stack banking web app with modern UI, secure authentication, 
 - Fully containerized microservices
 
 # 🔗 Repositories:
-All repo grouped under BankingSystem organization: https://github.com/BankingSystemHTS
+All repo grouped under 
+BankingSystem organization: https://github.com/BankingSystemHTS
+
 Frontend Repository:
 - https://github.com/BankingSystemHTS/HTSBanking-Frontend.git
   
